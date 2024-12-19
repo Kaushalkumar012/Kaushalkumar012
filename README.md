@@ -13,6 +13,9 @@
 - Advanced Penetration Testing  
 - Blockchain Security  
 ---
+## 📂 Projects
+- **Passsword Strength Analyzer**
+---
 ## 🌐 Connect with Me
 📫 **Email:*kaushalkumar00200@gmail.com*
 💼 **LinkedIn:*www.linkedin.com/in/kaushal00200*   
