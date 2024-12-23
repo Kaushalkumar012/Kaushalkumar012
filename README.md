@@ -10,7 +10,7 @@
 ---
 ## 🌱 Currently Learning
 - Ethical Hacking & Bug Bounty  
-- Advanced Penetration Testing  
+- Penetration Testing  
 - Blockchain Security  
 ---
 ## 📂 Projects
