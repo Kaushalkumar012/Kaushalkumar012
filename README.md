@@ -10,8 +10,9 @@
 ---
 ## 🌱 Currently Learning
 - Ethical Hacking & Bug Bounty  
-- Penetration Testing  
-- Blockchain Security  
+- Full Stack Development  
+- Tailwind CSS  
+
 ---
 ## 📂 Projects
 - **Passsword Strength Analyzer**
