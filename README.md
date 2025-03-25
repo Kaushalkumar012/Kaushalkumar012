@@ -3,7 +3,7 @@
 👋 Hi there! I'm **Kaushal Kumar**, a Computer Science Engineering undergraduate specializing in **Cybersecurity and IoT**. I'm passionate about building secure systems, solving problems, and exploring new technologies.
 
 ## 🔧 Skills & Technologies
-- **Programming Languages:** C++, Java, Python  
+- **Programming Languages:** Java, Python  
 - **Web Development:** HTML, CSS, JavaScript  
 - **Data Structures & Algorithms (DSA)**  
 - **Operating System:** Linux  
