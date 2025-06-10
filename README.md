@@ -52,4 +52,7 @@
 
 ---
 
-![visitors](https://shields-io-visitor-badge.vercel.app/api/Kaushalkumar012)
+<p align="center">
+  <img src="https://api.countapi.xyz/hit/Kaushalkumar012/profile-visits?style=plastic" alt="Visitor Count" />
+</p>
+
