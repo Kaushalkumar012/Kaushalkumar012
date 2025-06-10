@@ -52,7 +52,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://shields-io-visitor-badge.vercel.app/api/Kaushalkumar012" alt="Visitor Count" />
-</p>
-
