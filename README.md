@@ -53,5 +53,6 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Kaushalkumar012&icon=4&color=6" />
+  <img src="https://badgen.net/https/api.countapi.xyz/hit/Kaushalkumar012/profile-visits" alt="Visitor Count Badge" />
 </p>
+
