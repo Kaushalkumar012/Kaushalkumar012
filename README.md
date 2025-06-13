@@ -51,7 +51,3 @@
 > Cybersecurity isn't just a field—it's a puzzle waiting to be solved.
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Kaushalkumar012&icon=4&color=6" />
-</p>
