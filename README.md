@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity & IoT Enthusiast | Full Stack Developer in Progress | Ethical Hacker</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=36BCF7&width=450&lines=Welcome+to+my+GitHub!;Cybersecurity+is+my+passion!;Learning+%7C+Building+%7C+Securing+Digital+Space" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=36BCF7&width=450&lines=Welcome+to+my+GitHub!;Cybersecurity+is+my+passion!;Learning+%7C+Building+%7C+Securing+Digital+Space" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -59,13 +59,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaushalkumar012&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaushalkumar012&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaushalkumar012&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushalkumar012&layout=compact&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaushalkumar012&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushalkumar012&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -73,7 +75,7 @@
 ### 🗓️ Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kaushalkumar012&theme=react-dark&area=true&hide_border=true"/>
+  <img src="https://github-contribution-graph.vercel.app/api/?username=Kaushalkumar012&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -81,7 +83,7 @@
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kaushalkumar012&theme=radical&row=1&no-frame=true&no-bg=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Kaushalkumar012&theme=darkhub&no-bg=true&no-frame=true&row=1"/>
 </p>
 
 ---
