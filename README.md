@@ -35,8 +35,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaushalkumar012&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaushalkumar012&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushalkumar012&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
