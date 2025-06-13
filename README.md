@@ -1,23 +1,14 @@
-💻 Kaushal Kumar - Aspiring Cybersecurity Specialist
-👋 Hi there! I'm Kaushal Kumar, a Computer Science Engineering undergraduate specializing in Cybersecurity and IoT. I'm passionate about building secure systems, solving problems, and exploring new technologies.
+### 📊 GitHub Stats & Streak
 
-🔧 Skills & Technologies
-Programming Languages: Java, Python
-Web Development: HTML, CSS, JavaScript
-Data Structures & Algorithms (DSA)
-Operating System: Linux
-🌱 Currently Learning
-Ethical Hacking & Bug Bounty
-Full Stack Development
-Tailwind CSS
-📂 Projects
-Passsword Strength Analyzer
-PHONEPAY MANAGMENT SYSTEM
-🌐 Connect with Me
-📫 **Email:kaushalkumar00200@gmail.com 💼 **LinkedIn:www.linkedin.com/in/kaushal00200
-🐦 **Twitter:https://x.com/Kaushal00200
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaushalkumar012&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaushalkumar012&theme=tokyonight&hide_border=true" width="47%" />
+</p>
 
-💡 Fun Fact
-Cybersecurity isn't just a field—it's a puzzle waiting to be solved. I'm on a mission to make the digital world safer!
+---
 
-✨ Check out my repositories and let's collaborate!
+### 🗓️ Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kaushalkumar012&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
