@@ -5,9 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=36BCF7&width=435&lines=Cybersecurity+%7C+IoT+Enthusiast;Full+Stack+Dev+in+Progress;Ethical+Hacking+%7C+Bug+Bounty+Learner" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Kaushalkumar012&label=Profile%20Views&icon=0&color=6" />
-</p>
 
 ---
 
