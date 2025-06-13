@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Cybersecurity & IoT Enthusiast | Full Stack Developer in Progress</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=00FFFF&width=440&lines=Passionate+Cybersecurity+Learner;Exploring+Ethical+Hacking+%26+Bug+Bounty;Building+Secure+Web+Apps" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=00FFFF&width=440&lines=Passionate+Cybersecurity+Learner;" alt="Typing animation" />
 </p>
 
 ---
