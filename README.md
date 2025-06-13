@@ -58,13 +58,6 @@
 
 ---
 
-### 🎧 Now Playing on Spotify
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31nbq4lddj6wfa7n3c7k32bkz5um&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-</p>
-
----
 
 ### 📬 Connect With Me
 
@@ -94,9 +87,3 @@
 ---
 
 ### 🧱 Contribution Calendar
-
-<p align="center">
-  <a href="https://github.com/Kaushalkumar012">
-    <img src="https://github.com/Kaushalkumar012/github-readme-streak-stats/raw/master/example.svg" alt="Streak (Fallback image)" width="80%" />
-  </a>
-</p>
