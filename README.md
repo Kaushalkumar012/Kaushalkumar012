@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=36BCF7&width=435&lines=Hi+I'm+Kaushal+Kumar;Cybersecurity+%26+IoT+Enthusiast;Full+Stack+Dev+in+Progress" alt="Typing SVG" />
-</h1>                                         
+</h1>
 
 ---
 
@@ -29,20 +29,11 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaushalkumar012&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaushalkumar012&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaushalkumar012&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushalkumar012&theme=tokyonight&hide_border=false&layout=compact" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaushalkumar012&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushalkumar012&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-</p>
-
 
 ---
 
@@ -61,3 +52,6 @@
 
 ---
 
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Kaushalkumar012&icon=4&color=6" />
+</p>
