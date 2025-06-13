@@ -37,7 +37,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kaushalkumar012&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaushalkumar012&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=Kaushalkumar012&theme=tokyonight&hide_border=true" width="47%" />
 </p>
 
 ---
@@ -58,11 +58,7 @@
 
 ---
 
-### 🎧 Now Playing on Spotify
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31nbq4lddj6wfa7n3c7k32bkz5um&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-</p>
 
 ---
 
