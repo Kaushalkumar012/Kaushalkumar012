@@ -60,9 +60,8 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kaushalkumar012&theme=discord&no-frame=true&row=1" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kaushalkumar012&theme=discord&no-frame=true&row=1&margin-w=15" alt="GitHub Trophies" />
 </p>
-
 ---
 
 
