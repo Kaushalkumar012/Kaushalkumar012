@@ -31,7 +31,7 @@
 
 | Name | Description |
 |------|-------------|
-| 🔐 [Password Strength Analyzer](https://github.com/Kaushalkumar012/Password-Strength-Analyzer) | JS app to evaluate password strength |
+| 🔐 [Password Strength Analyzer](https://github.com/Kaushalkumar012/Password-Strength-Checker) | JS app to evaluate password strength |
 | 💳 [PhonePe Management System](https://github.com/Kaushalkumar012/PhonePe-Management-System) | Python + MySQL DBMS project |
 | 🎵 [Spotify Clone](https://github.com/Kaushalkumar012/SPOTIFY_CLONE) | Responsive HTML/CSS UI clone |
 
