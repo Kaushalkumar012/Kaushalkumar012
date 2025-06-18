@@ -50,6 +50,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Kaushalkumar012&theme=tokyonight&hide_border=true" width="47%" />
   
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaushalkumar012&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
