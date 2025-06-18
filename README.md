@@ -8,14 +8,15 @@
 ---
 
 ### 👨‍💻 About Me
+
 👋 Hey there! I’m Kaushal Kumar, a passionate 3rd-year B.Tech CSE student specializing in Cybersecurity & IoT — with a strong focus on Java, DSA, and Full Stack Web Development.<br>
----
+
 ### 🧠 What I Bring to the Table:
 ✅ Strong foundation in Java and Data Structures<br>
 ✅ Hands-on experience in Full Stack Development<br>
 ✅ Passion for Cybersecurity, with focus on ethical hacking and system defense<br>
 ✅ A builder’s mindset: Learn → Build → Break → Rebuild<br>
----
+
 ---
 
 ### 🛠️ Tech Stack
