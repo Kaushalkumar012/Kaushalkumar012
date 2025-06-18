@@ -47,12 +47,82 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushalkumar012&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kaushalkumar012&theme=tokyonight&hide_border=true" width="47%" />
-  
+  <img src="https://streak-stats.demolab.com?user=Kaushalkumar012&theme=tokyonight&hide_border=true" width="47%" </p>
+
+
+
+---
+
+🚨 Possible Issues & Fixes
+
+1. 🔒 GitHub blocks insecure image links
+
+If you’re viewing your profile from the GitHub mobile app or mobile browser, external images (like from demolab.com) sometimes won’t load due to security or CORS policy.
+
+✅ Try this first:
+
+Open your GitHub profile README in a desktop browser (like Chrome).
+
+Visit this link directly in a browser:
+👉 https://streak-stats.demolab.com?user=Kaushalkumar012&theme=tokyonight&hide_border=true
+
+
+
+---
+
+2. 🌐 The stats server is temporarily down
+
+The streak-stats service occasionally goes down. To confirm:
+
+Go to this live example:
+👉 https://streak-stats.demolab.com/?user=DenverCoder1
+
+If that also doesn't load, it's a server issue. You can:
+
+Wait and try again in a few hours.
+
+Use GitHub Activity Stats as a temporary replacement.
+
+
+
+
+---
+
+✅ Temporary Fix Using GitHub Stats (No Streak)
+
+Until the streak-stats site is stable, here’s a working alternative you can use now:
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaushalkumar012&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaushalkumar012&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
+
+It shows your:
+
+total commits,
+
+stars,
+
+forks,
+
+and contributions graph (no streak line, though).
+
+
+
+---
+
+📌 If You Want GitHub Contribution Graph (as an image)
+
+Try:
+
+<p align="center">
+  <img src="https://github.com/Kaushalkumar012/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+But first you’ll need to set that up via a Git
+
+
 
 
 ### 📈 Contribution Graph
