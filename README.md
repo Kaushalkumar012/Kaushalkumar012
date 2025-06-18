@@ -8,10 +8,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 CSE undergraduate (Cybersecurity & IoT)
-- 🌱 Currently learning: Ethical Hacking, Bug Bounty, Tailwind CSS
-- 💻 Love building secure and scalable web projects
-- 🎯 Goal: To make the digital world safer
+👋 Hey there! I’m Kaushal Kumar, a passionate 3rd-year B.Tech CSE student specializing in Cybersecurity & IoT — with a strong focus on Java, DSA, and Full Stack Web Development.<br>
+👨‍💻 My Playground:<br>
+From writing efficient Java code and solving DSA problems to building full-stack web applications, I thrive on turning ideas into secure and scalable real-world solutions. Whether it’s debugging a tricky algorithm or designing responsive UIs, I love every step of the development process.
+
+
 
 ---
 
