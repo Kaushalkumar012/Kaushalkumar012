@@ -48,14 +48,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushalkumar012&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Kaushalkumar012" alt="GitHub Streak"/>
-  </a>
-</p>
-
-
-
 
 
 
