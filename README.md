@@ -48,7 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushalkumar012&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kaushalkumar012&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kaushalkumar012&theme=dark)](https://git.io/streak-stats)
 
 
 
