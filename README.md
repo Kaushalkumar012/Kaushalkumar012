@@ -59,9 +59,10 @@ I focus on Java, Data Structures & Algorithms, and Full Stack Web Development, w
 
 | Name | Description |
 |------|-------------|
+| 🤝 [SkillBridge](#) | Platform to connect users for skill exchange and collaboration |
+| 🤖 [AI Debugger](#) | AI-based tool to detect and suggest fixes for code errors |
 | 🔐 [Password Strength Analyzer](https://github.com/Kaushalkumar012/Password-Strength-Checker) | JavaScript app to evaluate password strength |
 | 💳 [PhonePe Management System](https://github.com/Kaushalkumar012/PhonePe-Management-System) | Python + MySQL DBMS project |
-| 🎵 [Spotify Clone](https://github.com/Kaushalkumar012/SPOTIFY_CLONE) | Responsive HTML/CSS UI clone |
 
 ---
 
